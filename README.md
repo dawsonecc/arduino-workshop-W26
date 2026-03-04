@@ -3,7 +3,7 @@
 This repository contains:
 
 1. 7 Arduino projects of varying difficulty levels  
-2. Circuit diagrams and build instructions  
+2. Circuit diagrams, build instructions, basic electronics/embedded programming theory, and logic flowcharts  
 3. Example code for each project  
 4. Documentation explaining breadboarding and Arduino programming basics 
 
